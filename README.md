@@ -67,10 +67,12 @@ This repository contains a comprehensive data science workflow focused on analyz
 ## 📈 Example Outputs
 
 - Win Rate by Sentiment:
-  ![Win Rate Plot](link-to-screenshot-if-applicable)
+  ![Win Rate Plot](<img width="1489" height="1181" alt="image" src="https://github.com/user-attachments/assets/4d52bedd-28ce-4086-b3e6-d3dfd426c9c3" />
+)
 
 - Correlation Heatmap:
-  ![Correlation Matrix](link-to-screenshot-if-applicable)
+  ![Correlation Matrix](<img width="882" height="790" alt="image" src="https://github.com/user-attachments/assets/d15358bd-70fb-4c0d-a250-25b209936eda" />
+)
 
 ---
 
@@ -91,4 +93,4 @@ This analysis is based on historical data and does not constitute financial advi
 
 ## 📬 Contact
 
-For questions or collaboration, feel free to reach out via [your_email@example.com] or open an issue.
+For questions or collaboration, feel free to reach out via [tejasparesh2003@gmail.com] or open an issue.
